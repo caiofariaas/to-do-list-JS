@@ -160,3 +160,18 @@ input, select{
     text-decoration: line-through;
     font-style: italic;
 }
+
+#edit-input{
+    margin-top: 1%;
+}
+
+#linkar{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.ultimo{
+    display: flex;
+    justify-content: space-evenly;
+}
